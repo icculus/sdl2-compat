@@ -1,10 +1,13 @@
-# Simple DirectMedia Layer (SDL) sdl2-compat
+# This is Ryan's temporary experimental fork of sdl2-compat.
 
-https://www.libsdl.org/
+I'm trying out various things that might be merged later.
 
-This is the Simple DirectMedia Layer, a general API that provides low
-level access to audio, keyboard, mouse, joystick, 3D hardware via OpenGL,
-and 2D framebuffer across multiple platforms.
+If you want sdl2-compat, this is not the fork you want. You want
+[the main repository](https://github.com/libsdl-org/sdl2-compat).
+
+
+
+## Original README follows.
 
 This code is a compatibility layer; it provides a binary and source
 compatible API for programs written against SDL2, but it uses SDL3
